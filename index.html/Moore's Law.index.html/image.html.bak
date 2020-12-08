@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>image</title>
+  </head>
+  <body style="table-layout: auto; border-collapse: separate;">
+    <div style="text-align: center;"><br>
+    </div>
+    <table style="width: 946px; height: 103px;" cellspacing="2" cellpadding="2"
+      border="1">
+      <tbody>
+        <tr align="center">
+          <td style="float: none; background-image: url(&quot;file:///C:/Users/lyssa/Downloads/download%20(1).jpg&quot;); text-align: center;"><span
+              style="color: white; font-size: xx-large;">Moore's Law<br>
+            </span></td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="text-align: center;"></p>
+  </body>
+</html>
